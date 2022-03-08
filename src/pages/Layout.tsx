@@ -3,6 +3,7 @@ import { Link, Outlet } from 'react-router-dom';
 
 export const Layout = () => {
   const a = 'Feature 1';
+  const b = 'Feature 1.2';
 
   return (
     <div>
